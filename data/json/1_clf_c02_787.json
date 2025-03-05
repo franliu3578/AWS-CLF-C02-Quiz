@@ -1577,7 +1577,7 @@
         ],
         "answer": "C. Pay-as-you-go pricing",
         "keywords": ["on-demand services", "fixed expenses", "variable expenses", "economies of scale"],
-        "explanation": "Pay-as-you-go pricing allows companies to replace upfront fixed expenses with variable expenses by paying only for the resources they use.
+        "explanation": "Pay-as-you-go pricing allows companies to replace upfront fixed expenses with variable expenses by paying only for the resources they use."
     {
         "question": "A company is using AWS Lambda functions to build an application. Which tasks are the company's responsibility, according to the AWS shared responsibility model? (Select TWO.)",
         "options": [
